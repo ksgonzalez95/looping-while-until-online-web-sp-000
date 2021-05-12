@@ -3,7 +3,7 @@ def using_until
   #your code here
 
 until leviatation_force == 10 do
-  puts "Wingardium Leviosa is equal to 10"
+  puts "Wingardium Leviosa"
   leviation_force += 1
 end
-end 
+end
